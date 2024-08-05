@@ -1,4 +1,4 @@
-# My React Native App
+# React Native APP
 
 ## Description
 This is a React Native application. It is connected to Firebase for Google Analytics 4 (GA4) has been integrated to measure and analyze user interactions with the app.
@@ -13,8 +13,8 @@ To install and run the app locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/my-react-native-app.git
-   cd my-react-native-app
+   git clone https://github.com/Dolo-pavon01/React-Native-APP.git
+   cd React-Native-APP
 
 2. **Install dependencies:**
 
@@ -44,7 +44,7 @@ We have configured GA4 to track events such as:
 
 - User logins
 - New user registrations
-- nteractions with [specific features]
+- nteractions and preferences
 - Navigation between screens
 
 
